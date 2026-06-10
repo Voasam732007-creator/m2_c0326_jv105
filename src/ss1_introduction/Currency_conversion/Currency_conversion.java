@@ -13,4 +13,3 @@ public class Currency_conversion {
         System.out.printf("Giá trị USD: "+ quydoi);
     }
 }
-
